@@ -1,16 +1,13 @@
-## Hi there 👋
+# T1WiLLi
 
-<!--
-**T1WiLLi/T1WiLLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`College student (Java developer and React@Typescript lover 😍)`**
 
-Here are some ideas to get you started:
+I'm a college student in Web and Mobile application, throughout the past years
+I was able to develop useful skill in multitude of domain such as back-end using
+the spring-boot java framework and front-end using React and Typescript.
+I also have very specific skill in both C (Win32 API) and ESP32 (Using C++)
+I'm also well into deep learning postgreSQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Language and Tools
+
+
