@@ -4,9 +4,9 @@
 
 I'm a college student in Web and Mobile application, throughout the past years
 I was able to develop useful skill in multitude of domain such as back-end using
-the spring-boot java framework and front-end using React and Typescript.
+the spring-boot java framework and PHP. Meanwhile on front-end i've loved using React and Typescript.
 I also have very specific skill in both C (Win32 API) and ESP32 (Using C++)
-I'm also well into deep learning postgreSQL.
+I'm also well versed in postgreSQL.
 
 <p align="left">
       <a href="https://github.com/T1WiLLi?tab=followers">
@@ -41,7 +41,11 @@ I'm also well into deep learning postgreSQL.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" align="left" width="30px" style="padding-right:10px;"/>
 
-#
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" align="left" width="30px" style="padding-right:10px;"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" alt="SWIFT" align="left" width="30px" style="padding-right:10px;"/>
+<br>
+
 
 ### Stats
 
