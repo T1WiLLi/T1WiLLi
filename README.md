@@ -29,6 +29,8 @@ I'm also well versed in postgreSQL.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" align="left" width="30px" style="padding-right:10px;"/>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="Typescript" align="left" width="30px" style="padding-right:10px;"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" align="left" width="30px" style="padding-right:10px;"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" alt="React Bootstrap" align="left" width="30px" style="padding-right:10px;"/>
