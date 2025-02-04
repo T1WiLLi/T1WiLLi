@@ -41,6 +41,8 @@ I'm also well versed in postgreSQL.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" align="left" width="30px" style="padding-right:10px;"/>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" align="left" width="30px" style="padding-right:10px;"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" align="left" width="30px" style="padding-right:10px;"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" align="left" width="30px" style="padding-right:10px;"/>
