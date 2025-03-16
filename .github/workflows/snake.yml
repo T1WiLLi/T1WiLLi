@@ -2,8 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight (UTC) — adjust as desired
-  workflow_dispatch:      # Allows you to run the action manually from the Actions tab
+    - cron: "0 0 * * *"  # daily
+  workflow_dispatch:
 
 jobs:
   build:
@@ -11,25 +11,19 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          # Specify your GitHub username or use this context variable if your repo is owned by you.
           github_user_name: "T1WiLLi"
-          # or, if you want to rely on the action context, uncomment this line instead:
-          # github_user_name: ${{ github.repository_owner }}
-
-          # These are the outputs we want the action to generate.
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      # Optional: upload artifacts so you can access them in your GitHub Actions' Artifacts tab
       - name: Upload Snake Artifacts
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: snake-artifacts
           path: dist
