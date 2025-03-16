@@ -34,10 +34,10 @@ I’m always eager to learn new technologies and collaborate on exciting project
 
 ## 🚀 Projects & Highlights
 
-- **[PPS - 2D Java Multiplayer Game](#)**  
+- **[PPS - 2D Java Multiplayer Game](https://github.com/T1WiLLi/PPS)**  
   _A real-time Java game using the Kryonet library for multiplayer functionality. Responsive controls, smooth gameplay, and networked interactions—super fun to build!_
 
-- **[Jolt - Minimalistic Java Web Framework](#)**  
+- **[Jolt - Minimalistic Java Web Framework](https://github.com/T1WiLLi/Jolt)**  
   _A lightweight framework for rapidly building Java-based APIs. Offers a simple, minimalistic approach for fast development without the bloat._
 
 - **[Gaming Studio Template](https://github.com/T1WiLLi/TP2)**  
