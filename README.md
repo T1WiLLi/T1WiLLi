@@ -26,7 +26,6 @@
 - **C (Win32 API) & ESP32 (C++)** for low-level programming and microcontroller fun.  
 - **PHP** for server-side scripting.  
 - **Swift** for iOS app development.  
-- **Python** for quick scripting and automation.
 
 I’m always eager to learn new technologies and collaborate on exciting projects—my goal is to become a well-rounded, **full-stack** engineer!
 
